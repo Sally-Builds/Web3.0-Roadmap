@@ -31,6 +31,7 @@ Personal documentation of Blockchain Development curriculum, code snippets and b
 ## Tools
 
 - Remix IDE
+- truffle
 - Metamask
 
 ## Languages
